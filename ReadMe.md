@@ -26,4 +26,4 @@ The dataset used for this cleaning process is stored in the `nashville_housing` 
 
 ## Credits
 
-This data cleaning process was performed by Prince Raj`.
+This data cleaning process was performed by [Prince Raj](https://www.linkedin.com/in/princeraj17/).
